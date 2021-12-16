@@ -1,6 +1,5 @@
-# Author: Mr.Tr3v!0n
-# Team: Black Coder Crush
-# hanya nooby Om jangan di record ya :(
+# Author: Err0r_HB
+# Team: HackBoyz Team 
 # ©Copyright_2019
 
 b="\033[34;1m"
